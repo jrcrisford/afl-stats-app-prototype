@@ -45,3 +45,7 @@ This project includes:
 Joshua Crisford  
 Bachelor of ICT (Games & Creative Technologies, Cybersecurity)  
 University of Tasmania
+
+## License
+
+This prototype is part of a university assessment and not licensed for commercial use. All original work © Joshua Crisford.
